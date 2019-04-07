@@ -1,0 +1,8 @@
+{
+  "test_sys_changepwd.py::Test_changepwd::()::test_changepwd1": true,
+  "test_sys_login.py::Test_login::()::test_login_fail": true,
+  "test_sys_login.py::Test_login::()::test_login_fail1": true,
+  "test_sys_login.py::Test_login::()::test_login_fail2": true,
+  "test_sys_login.py::Test_login::()::test_login_fail3": true,
+  "test_sys_login.py::Test_login::()::test_login_success": true
+}
