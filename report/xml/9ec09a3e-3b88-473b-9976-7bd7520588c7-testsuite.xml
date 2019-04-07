@@ -1,0 +1,92 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608948601" stop="1554608949256">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608948601" status="passed" stop="1554608948890">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_changepwd.Test_changepwd.test_changepwd</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码成功"/>
+        <label name="feature" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608948939" status="passed" stop="1554608948991">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608948993" status="passed" stop="1554608949047">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608949049" status="passed" stop="1554608949073">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608949075" status="passed" stop="1554608949119">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608949121" status="passed" stop="1554608949149">
+      <name>E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608949151" status="passed" stop="1554608949256">
+      <name>E:\python\htestAPI\testcase\user.test_user_info.Test_load_user_info.test_user_info</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11036-MainThread"/>
+        <label name="host" value="xiaokai"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

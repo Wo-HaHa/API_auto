@@ -1,0 +1,3 @@
+pytest==3.7.3
+requsets==2.19.1
+pytest-allure-adaptor

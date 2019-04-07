@@ -1,0 +1,15 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "286c441eae15aefd6a74e12d4591e88a",
+    "name" : "修改密码成功",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

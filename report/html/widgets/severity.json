@@ -1,0 +1,71 @@
+[ {
+  "uid" : "cdc60f8ae40a5f9d",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+  "time" : {
+    "start" : 1554608948939,
+    "stop" : 1554608948991,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b9dbf3c4ce23354",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_fail2",
+  "time" : {
+    "start" : 1554608949075,
+    "stop" : 1554608949119,
+    "duration" : 44
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aca47e65c9922819",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_changepwd.Test_changepwd.test_changepwd",
+  "time" : {
+    "start" : 1554608948601,
+    "stop" : 1554608948890,
+    "duration" : 289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b325e889470428",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_fail1",
+  "time" : {
+    "start" : 1554608949049,
+    "stop" : 1554608949073,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cd68726be2a1867",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_fail3",
+  "time" : {
+    "start" : 1554608949121,
+    "stop" : 1554608949149,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f972cf88503e584",
+  "name" : "E:\\python\\htestAPI\\testcase\\user.test_user_info.Test_load_user_info.test_user_info",
+  "time" : {
+    "start" : 1554608949151,
+    "stop" : 1554608949256,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfdee832125a7f20",
+  "name" : "E:\\python\\htestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+  "time" : {
+    "start" : 1554608948993,
+    "stop" : 1554608949047,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail3","28",""
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail","54",""
+"passed","testcase.E:\python\htestAPI\testcase\user.test_user_info.Test_load_user_info.test_user_info","105",""
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail2","44",""
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_success","52",""
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_changepwd.Test_changepwd.test_changepwd","289",""
+"passed","testcase.E:\python\htestAPI\testcase\sys.test_sys_login.Test_login.test_login_fail1","24",""
